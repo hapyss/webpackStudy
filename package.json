@@ -1,0 +1,19 @@
+{
+  "name": "webpacktest",
+  "version": "1.0.0",
+  "description": "learn and start",
+  "main": "runoob1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hapyss/webpackTest.git"
+  },
+  "author": "ss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hapyss/webpackTest/issues"
+  },
+  "homepage": "https://github.com/hapyss/webpackTest#readme"
+}
