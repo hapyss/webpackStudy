@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hapyss/webpackTest/issues"
   },
-  "homepage": "https://github.com/hapyss/webpackTest#readme"
+  "homepage": "https://github.com/hapyss/webpackTest#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6"
+  }
 }
