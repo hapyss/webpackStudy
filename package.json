@@ -1,22 +1,24 @@
 {
-  "name": "webpacktest",
+  "name": "webpackStudy",
   "version": "1.0.0",
-  "description": "learn and start",
+  "description": "",
   "main": "runoob1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hapyss/webpackTest.git"
+    "url": "git+https://github.com/hapyss/webpackStudy.git"
   },
-  "author": "ss",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hapyss/webpackTest/issues"
+    "url": "https://github.com/hapyss/webpackStudy/issues"
   },
-  "homepage": "https://github.com/hapyss/webpackTest#readme",
+  "homepage": "https://github.com/hapyss/webpackStudy#readme",
   "devDependencies": {
-    "webpack": "^4.29.6"
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
   }
 }
